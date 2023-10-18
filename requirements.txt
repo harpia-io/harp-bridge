@@ -1,5 +1,5 @@
 microservice-template-core==2.2.26
-urllib3==1.26.5
+urllib3==1.26.18
 requests-cache==0.6.4
 Flask-SocketIO==5.3.2
 eventlet==0.31.0
